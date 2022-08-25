@@ -1,6 +1,6 @@
 {
   "name": "saiodgm-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Saiodgm的 api\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b\u001b[C's\u001b[C\u001b[C\u001b[C\u001b[C.",
   "main": "index.js",
   "scripts": {
