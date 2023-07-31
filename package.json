@@ -1,22 +1,22 @@
 {
   "name": "saiodgm-api",
-  "version": "1.0.1",
-  "description": "Saiodgm的 api\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b\u001b[C's\u001b[C\u001b[C\u001b[C\u001b[C.",
+  "version": "1.0.2",
+  "description": "Saiodgm's api.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cqbzljt/api.git"
+    "url": "git+https://github.com/Liynw/api.git"
   },
   "keywords": [
     "img"
   ],
-  "author": "cqbzljt",
+  "author": "Liynw",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cqbzljt/api/issues"
+    "url": "https://github.com/Liynw/api/issues"
   },
-  "homepage": "https://github.com/cqbzljt/api#readme"
+  "homepage": "https://github.com/Liynw/api#readme"
 }
